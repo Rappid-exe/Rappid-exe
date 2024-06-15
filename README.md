@@ -5,12 +5,14 @@ I am an Aerospace Engineering student, Boeing intern and aspiring software engin
 I believe that no one actually knows what they are doing until they simply get started, and that is why the best way to learn is to simply start.
 
 ## Project-Flight Game: C#, Unity, VS 
-As part of my A level Computer Science project I made a simple yet interesting flight game that helped my register 2 years of Computer science concepts. 
+As part of my A level Computer Science project I made a simple yet interesting flight game that helped me register and implement many Computer Science concepts.
 ![image](https://github.com/Rappid-exe/Rappid-exe/assets/77837076/81c74e78-5bb9-4539-9b7c-a5bca3299916)
-![image](https://github.com/Rappid-exe/Rappid-exe/assets/77837076/0273b813-135b-4613-9200-5012a8d97088)
-![image](https://github.com/Rappid-exe/Rappid-exe/assets/77837076/3bdd7e14-6197-4247-b38d-b17a9faa60af)
 
-
+## Languages:
+- C#
+- Python
+- Java
+- HTML/CSS
 
 
 <!--
