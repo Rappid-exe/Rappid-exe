@@ -1,5 +1,7 @@
-## Rappid-exe Portfolio  👋
+## Rappid-exe's Portfolio  👋
 
+** 
+I am an Aerospace Engineering student, Boeing intern and aspiring software engineer looking to grow my skills and horizons through challenging projects and tackling problems. I believe that no one actually knows what they are doing until they simply get started, and that is the best way to learn.
 <!--
 **Rappid-exe/Rappid-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
