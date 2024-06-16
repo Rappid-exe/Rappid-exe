@@ -13,7 +13,11 @@ As part of my A level Computer Science project I made a simple yet interesting f
 - Python
 - Java
 - HTML/CSS
-
+## Interests:
+- Flight Sims
+- 3D printing
+- CAD modelling
+- Aircraft and Rockets 🚀
 
 <!--
 **Rappid-exe/Rappid-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
