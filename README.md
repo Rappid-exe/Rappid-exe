@@ -13,6 +13,17 @@ As part of my A level Computer Science project I made a simple yet interesting f
 - Python
 - Java
 - HTML/CSS
+
+## Other Projects / Experience:
+- Machine Learning / Data analysis
+- AI Air Traffic Controller project
+- Web app development - Django and Flask
+
+## Hackathons attended:
+- EazyA x Stacks Hackathon - Smart Contract Auditor 
+- Canary Wharf Hackathon x Solana - Crypto Security Tool 
+
+
 ## Interests:
 - Flight Sims
 - 3D printing
