@@ -4,6 +4,9 @@
 I am an Aerospace Engineering student, Boeing intern and aspiring software engineer looking to grow my skills and horizons through challenging projects and tackling problems. 
 I believe that no one actually knows what they are doing until they simply get started, and that is why the best way to learn is to simply start.
 
+## Internal Tools @ Boeing
+I am currently working on internal tools at Boeing to improve engineering and quality standards and meet customer expectations. Specifics are confidential...
+
 ## Project-Flight Game: C#, Unity, VS 
 As part of my A level Computer Science project I made a simple yet interesting flight game that helped me register and implement many Computer Science concepts.
 ![image](https://github.com/Rappid-exe/Rappid-exe/assets/77837076/81c74e78-5bb9-4539-9b7c-a5bca3299916)
@@ -29,6 +32,7 @@ As part of my A level Computer Science project I made a simple yet interesting f
 - 3D printing
 - CAD modelling
 - Aircraft and Rockets 🚀
+
 
 <!--
 **Rappid-exe/Rappid-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
