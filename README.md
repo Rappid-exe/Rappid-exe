@@ -7,7 +7,8 @@ I believe that no one actually knows what they are doing until they simply get s
 ## Internal Tools @ Boeing
 I am currently working on internal tools at Boeing to improve engineering and quality standards and meet customer expectations. Specifics are confidential...
 
-![image](https://github.com/user-attachments/assets/f4877a73-5434-4b8a-9661-42ae1050d521)
+![image](https://github.com/user-attachments/assets/74e0ff63-32ff-4b60-baee-1cb64e3951a2)
+
 
 
 
