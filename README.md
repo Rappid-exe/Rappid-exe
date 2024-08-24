@@ -6,7 +6,8 @@ I believe that no one actually knows what they are doing until they simply get s
 
 ## Internal Tools @ Boeing
 I am currently working on internal tools at Boeing to improve engineering and quality standards and meet customer expectations. Specifics are confidential...
-![giphy](https://github.com/user-attachments/assets/dbf78c3b-6d53-417a-956a-b6fc6a30b3ed)
+![image](https://github.com/user-attachments/assets/f4877a73-5434-4b8a-9661-42ae1050d521)
+
 
 
 ## Project-Flight Game: C#, Unity, VS 
