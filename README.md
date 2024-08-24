@@ -6,6 +6,8 @@ I believe that no one actually knows what they are doing until they simply get s
 
 ## Internal Tools @ Boeing
 I am currently working on internal tools at Boeing to improve engineering and quality standards and meet customer expectations. Specifics are confidential...
+![SV2Y4C4J2FKPHDYDSTMUWSYYHU](https://github.com/user-attachments/assets/a273f065-3cc2-488b-8f31-7d93da4dfe42)
+
 
 ## Project-Flight Game: C#, Unity, VS 
 As part of my A level Computer Science project I made a simple yet interesting flight game that helped me register and implement many Computer Science concepts.
