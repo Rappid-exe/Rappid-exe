@@ -1,4 +1,4 @@
-## Rappid-exe's Portfolio  👋
+## Rappid-exe's Portfolio  👋 - Chainlabs
 
  
 I am an Aerospace Engineering student, Boeing intern and aspiring software engineer looking to grow my skills and horizons through challenging projects and tackling problems. 
