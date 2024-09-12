@@ -1,4 +1,4 @@
-## Rappid-exe's Portfolio  👋 - Boeing - Chainlabs - CS50 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
+## Rappid-exe's Portfolio  👋 - Boeing - Chainlabs - CS50  ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 
  
 I am an Aerospace Engineering student, Boeing intern and aspiring software engineer looking to grow my skills and horizons through challenging projects and tackling problems. 
@@ -17,10 +17,10 @@ As part of my A level Computer Science project I made a simple yet interesting f
 ![image](https://github.com/Rappid-exe/Rappid-exe/assets/77837076/81c74e78-5bb9-4539-9b7c-a5bca3299916)
 
 ## Languages:
-- C#
-- Python
-- Java
-- HTML/CSS
+- C#  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+- Python ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- Java ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+- HTML/CSS ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Other Projects / Experience:
 - Machine Learning / Data analysis
