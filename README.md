@@ -1,4 +1,4 @@
-## Rappid-exe's Portfolio  👋 - Chainlabs
+## Rappid-exe's Portfolio  👋 - Boeing - Chainlabs - CS50 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 
  
 I am an Aerospace Engineering student, Boeing intern and aspiring software engineer looking to grow my skills and horizons through challenging projects and tackling problems. 
@@ -29,7 +29,8 @@ As part of my A level Computer Science project I made a simple yet interesting f
 
 ## Hackathons attended:
 - EazyA x Stacks Hackathon - Smart Contract Auditor 
-- Canary Wharf Hackathon x Solana - Crypto Security Tool 
+- Canary Wharf Hackathon x Solana - Crypto Security Tool
+- IBM watsonX ai hackathon
 
 
 ## Interests:
