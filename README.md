@@ -1,5 +1,6 @@
 ## Rappid-exe's Portfolio  👋 - Boeing - Chainlabs - CS50  ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 
+Recent Project: https://github.com/George-Tharwat-Thabet/AI_Navigation_Project
  
 I am an Aerospace Engineering student, Boeing intern and aspiring software engineer looking to grow my skills and horizons through challenging projects and tackling problems. 
 I believe that no one actually knows what they are doing until they simply get started, and that is why the best way to learn is to simply start.
