@@ -4,7 +4,8 @@ I am an Aerospace Engineering student, Boeing intern and aspiring software engin
 I believe that no one actually knows what they are doing until they simply get started, and that is why the best way to learn is to simply start.
 
 
-Recent Project: https://github.com/George-Tharwat-Thabet/AI_Navigation_Project
+## IBM watsonX AI Object Recognition: https://github.com/George-Tharwat-Thabet/AI_Navigation_Project
+- Placed 4th Globally in Hackathon.
 
 ## SkillBridge : https://github.com/MasteraSnackin/SkillBridge
 ![image](https://github.com/user-attachments/assets/4e144171-bd4b-4ded-b2fe-b87fdc87233f)
