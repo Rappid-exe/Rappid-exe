@@ -5,8 +5,8 @@ I believe that no one actually knows what they are doing until they simply get s
 
 
 Recent Project: https://github.com/George-Tharwat-Thabet/AI_Navigation_Project
-Recent Hackathon Project:
-## SkillBridge : https://github.com/MasteraSnackin/SkillBridge
+
+## SkillBridge - Backend + frontend intergration : https://github.com/MasteraSnackin/SkillBridge
 ![image](https://github.com/user-attachments/assets/4e144171-bd4b-4ded-b2fe-b87fdc87233f)
 
 
