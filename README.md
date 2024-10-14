@@ -1,14 +1,15 @@
 ## Rappid-exe's Portfolio  👋 - Boeing - Chainlabs - CS50  ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 
-Recent Project: https://github.com/George-Tharwat-Thabet/AI_Navigation_Project
-Recent Hackathon Project:
-## SkillBridge :
-https://github.com/MasteraSnackin/SkillBridge
-![image](https://github.com/user-attachments/assets/4e144171-bd4b-4ded-b2fe-b87fdc87233f)
-
- 
 I am an Aerospace Engineering student, Boeing intern and aspiring software engineer looking to grow my skills and horizons through challenging projects and tackling problems. 
 I believe that no one actually knows what they are doing until they simply get started, and that is why the best way to learn is to simply start.
+
+
+Recent Project: https://github.com/George-Tharwat-Thabet/AI_Navigation_Project
+Recent Hackathon Project:
+## SkillBridge : https://github.com/MasteraSnackin/SkillBridge
+![image](https://github.com/user-attachments/assets/4e144171-bd4b-4ded-b2fe-b87fdc87233f)
+
+
 
 ## Internal Tools @ Boeing
 I am currently working on internal tools at Boeing to improve engineering and quality standards and meet customer expectations. Specifics are confidential...
