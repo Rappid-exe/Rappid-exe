@@ -1,7 +1,12 @@
-## Rappid-exe's Portfolio  👋 - Boeing - Chainlabs - CS50  ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
+![image](https://github.com/user-attachments/assets/b16233ec-c0a3-43f3-ab24-cb37e1f161e2)## Rappid-exe's Portfolio  👋 - Boeing - Chainlabs - CS50  ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 
 I am an Aerospace Engineering student, Boeing intern and aspiring software engineer looking to grow my skills and horizons through challenging projects and tackling problems. 
 I believe that no one actually knows what they are doing until they simply get started, and that is why the best way to learn is to simply start.
+
+Encode Hackathon:
+https://github.com/MasteraSnackin/Dinsurnace2
+- 2nd Place
+![image](https://github.com/user-attachments/assets/d30968ff-cacf-492a-94d2-556cd00f9fb8)
 
 
 ## IBM watsonX AI Object Recognition: https://github.com/George-Tharwat-Thabet/AI_Navigation_Project
