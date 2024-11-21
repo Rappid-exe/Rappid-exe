@@ -3,6 +3,11 @@
 I am an Aerospace Engineering student, Boeing intern and aspiring software engineer looking to grow my skills and horizons through challenging projects and tackling problems. 
 I believe that no one actually knows what they are doing until they simply get started, and that is why the best way to learn is to simply start.
 
+Meta Llama - Impact Hackathon:
+https://github.com/sd2879/llama_scoutie_ai
+![image](https://github.com/user-attachments/assets/e84def70-ac26-4fe7-a619-bba0c7a97d66)
+
+
 Encode Hackathon:
 https://github.com/MasteraSnackin/Dinsurnace2
 - 2nd Place
