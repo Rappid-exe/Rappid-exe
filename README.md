@@ -5,6 +5,10 @@ I believe that no one actually knows what they are doing until they simply get s
 
 Atmo Carbon Capture - Carbon Credit Tokenisation:
 https://github.com/Rappid-exe/AtmoCC
+![image](https://github.com/user-attachments/assets/27248623-7a31-4804-adc4-62e624462b5f)
+![image](https://github.com/user-attachments/assets/89ca7846-27c3-4824-a570-1a8ae2c885c4)
+![image](https://github.com/user-attachments/assets/ad814aa4-7a61-49a9-94bf-d78666f9472d)
+
 
 
 Meta Llama - Impact Hackathon - Multimodal, AI agent software that connects businesses to the best content creators for their marketing needs.
