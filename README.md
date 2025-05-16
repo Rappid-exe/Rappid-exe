@@ -3,7 +3,9 @@
 I am an Aerospace Engineering student, Boeing intern and aspiring software engineer looking to grow my skills and horizons through challenging projects and tackling problems. 
 I believe that no one actually knows what they are doing until they simply get started, and that is why the best way to learn is to simply start.
 
-Atmo Carbon Capture - Carbon Credit Tokenisation:
+##Projects:
+
+##Atmo Carbon Capture - Carbon Credit Tokenisation:
 https://github.com/Rappid-exe/AtmoCC
 ![image](https://github.com/user-attachments/assets/27248623-7a31-4804-adc4-62e624462b5f)
 ![image](https://github.com/user-attachments/assets/89ca7846-27c3-4824-a570-1a8ae2c885c4)
