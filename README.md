@@ -3,6 +3,11 @@
 I am an Aerospace Engineering student, Boeing intern and aspiring software engineer looking to grow my skills and horizons through challenging projects and tackling problems. 
 I believe that no one actually knows what they are doing until they simply get started, and that is why the best way to learn is to simply start.
 
+Working on ApexQA an AI Agent for Quality Assurance/ next Gen QMS
+https://v0-quality-engineering-ui.vercel.app/
+![image](https://github.com/user-attachments/assets/d4f082bf-d6a5-4854-8362-5bd8f9052c0b)
+
+
 3rd Place Google AI Hackathon:
 https://github.com/ZejiaYang/Google_AI_Hack/tree/pillAI ( BackEnd, Cloud, AI intergration)
 ![image](https://github.com/user-attachments/assets/35d5988d-1181-47c5-b7d0-f334d398a273)
