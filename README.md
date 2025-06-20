@@ -3,6 +3,11 @@
 I am an Aerospace Engineering student, Boeing intern and aspiring software engineer looking to grow my skills and horizons through challenging projects and tackling problems. 
 I believe that no one actually knows what they are doing until they simply get started, and that is why the best way to learn is to simply start.
 
+3rd Place Google AI Hackathon:
+https://github.com/ZejiaYang/Google_AI_Hack/tree/pillAI ( BackEnd, Cloud, AI intergration)
+![image](https://github.com/user-attachments/assets/35d5988d-1181-47c5-b7d0-f334d398a273)
+
+
 ##Projects:
 
 ##Atmo Carbon Capture - Carbon Credit Tokenisation:
