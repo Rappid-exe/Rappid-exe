@@ -1,5 +1,5 @@
 Hi, I'm Umair Ismati 👋
-I'm an Aerospace Engineering student at Queen Mary University of London with a year of industrial experience at Boeing Defence UK. My passion lies at the intersection of complex physical systems and high-performance software. I specialize in building full-stack applications, developing AI-driven solutions, and solving engineering problems with code.
+I'm an Aerospace Engineering student at Queen Mary University of London with a year of industrial experience at Boeing UK. My passion lies at the intersection of complex physical systems and high-performance software. I specialize in building full-stack applications, developing AI-driven solutions, and solving engineering problems with code.
 I'm currently seeking challenging graduate roles in software engineering, quantitative development, and high-tech engineering, starting in Autumn 2025.
 <a href="https://www.linkedin.com/in/umair-ismati-808a04199/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
