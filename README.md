@@ -16,15 +16,14 @@ I'm an **Aerospace Engineer & Software Developer** with professional experience 
 <p align="left">
   <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/> </a>
   <a href="https://nextjs.org/" target="_blank"> <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs"/> </a>
+  <a href="https://cloud.google.com/vertex-ai" target="_blank"> <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="vertexai"/> </a>
   <a href="https://pytorch.org/" target="_blank"> <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch"/> </a>
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/> </a>
   <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/> </a>
-  <a href="https://cloud.google.com" target="_blank"> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="gcp"/> </a>
   <a href="https://aws.amazon.com" target="_blank"> <img src="https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/> </a>
 </p>
 
@@ -35,18 +34,18 @@ I'm an **Aerospace Engineer & Software Developer** with professional experience 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">Personalized Sales Outreach Agent</h3>
-<p align="center">A full-stack generative AI agent that produces personalized sales outreach, integrating Mistral AI for intelligent email generation and ElevenLabs for custom voice synthesis.</p>
+<h3 align="center">Economist AI Podcast Generator</h3>
+<p align="center">An AI system that creates personalized podcasts from The Economist's content. It uses RAG, Google's Vertex AI (Gemini), and ElevenLabs to generate engaging, voice-based summaries based on user interests.</p>
 <p align="center">
-<code>Node.js</code> <code>Next.js</code> <code>Mistral AI</code> <code>ElevenLabs</code> <code>Generative AI</code>
+<code>Python</code> <code>FastAPI</code> <code>Next.js</code> <code>RAG</code> <code>Vertex AI</code> <code>ElevenLabs</code>
 </p>
 <div align="center">
-<a href="https://github.com/Rappid-exe/Personalized-Sales-Agent"><strong>View on GitHub</strong></a>
+<a href="https://github.com/Rappid-exe/EconomistHack"><strong>View on GitHub</strong></a>
 </div>
 </td>
 <td width="50%" valign="top">
-<!-- TODO: Add a compelling screenshot or GIF of your Sales Agent UI -->
-<img src="https://user-images.githubusercontent.com/26279115/183122148-38663a85-b3a2-4a7b-83cf-8a1928a38520.png" alt="Sales Agent Demo">
+<!-- TODO: Add a compelling screenshot or GIF of the Podcast Generator UI -->
+<img src="https://user-images.githubusercontent.com/26279115/183122148-38663a85-b3a2-4a7b-83cf-8a1928a38520.png" alt="Podcast Generator Demo">
 </td>
 </tr>
 <tr>
@@ -97,6 +96,13 @@ I'm an **Aerospace Engineer & Software Developer** with professional experience 
 </td>
 </tr>
 </table>
+
+---
+
+### 🔭 More of My Work
+- **[Personalized Sales Outreach Agent](https://github.com/Rappid-exe/Personalized-Sales-Agent)** - A full-stack generative AI agent using Mistral AI and ElevenLabs to create hyper-personalized sales emails and voice notes from LinkedIn profiles.
+- **[SRE Multi-Agent Framework](https://github.com/Rappid-exe/SRE-Multi-Agent-Framework)** - A prize-winning system where AI agents collaborate to automate Site Reliability Engineering tasks, earning pilot interest from Vultr.
+- **[AtmoSieve - Blockchain Carbon Credits](https://github.com/Rappid-exe/AtmoCC)** - A full-stack dApp for transparent carbon credit tokenization and trading using Solidity and Polkadot.
 
 ---
 
