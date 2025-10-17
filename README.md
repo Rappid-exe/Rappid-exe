@@ -40,12 +40,15 @@ I'm an **Aerospace Engineer & Software Developer** with professional experience 
 <code>Python</code> <code>FastAPI</code> <code>Next.js</code> <code>RAG</code> <code>Vertex AI</code> <code>ElevenLabs</code>
 </p>
 <div align="center">
+<a href="https://www.youtube.com/watch?v=fn5zYwrzm08"><strong>🎥 Watch the Demo</strong></a> | 
 <a href="https://github.com/Rappid-exe/EconomistHack"><strong>View on GitHub</strong></a>
 </div>
 </td>
 <td width="50%" valign="top">
-<!-- TODO: Add a compelling screenshot or GIF of the Podcast Generator UI -->
-<img src="[https://user-images.githubusercontent.com/26279115/183122148-38663a85-b3a2-4a7b-83cf-8a1928a38520.png](https://www.youtube.com/watch?v=fn5zYwrzm08)" alt="Podcast Generator Demo">
+<!-- THIS IS THE NEW CLICKABLE VIDEO THUMBNAIL -->
+<a href="https://www.youtube.com/watch?v=fn5zYwrzm08" target="_blank">
+  <img src="https://img.youtube.com/vi/fn5zYwrzm08/maxresdefault.jpg" alt="Economist AI Podcast Generator Demo Video">
+</a>
 </td>
 </tr>
 <tr>
