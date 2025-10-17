@@ -45,7 +45,6 @@ I'm an **Aerospace Engineer & Software Developer** with professional experience 
 </div>
 </td>
 <td width="50%" valign="top">
-<!-- THIS IS THE NEW CLICKABLE VIDEO THUMBNAIL -->
 <a href="https://www.youtube.com/watch?v=fn5zYwrzm08" target="_blank">
   <img src="https://img.youtube.com/vi/fn5zYwrzm08/maxresdefault.jpg" alt="Economist AI Podcast Generator Demo Video">
 </a>
@@ -59,12 +58,14 @@ I'm an **Aerospace Engineer & Software Developer** with professional experience 
 <code>Python</code> <code>Scikit-learn</code> <code>FastAPI</code> <code>Next.js</code>
 </p>
 <div align="center">
+<a href="https://www.youtube.com/watch?v=tA-L0zJ8s1s"><strong>🎥 Watch the Demo</strong></a> | 
 <a href="https://github.com/Rappid-exe/NASA-Space-App"><strong>View on GitHub</strong></a>
 </div>
 </td>
 <td width="50%" valign="top">
-<!-- TODO: Add a screenshot of your Exoplanet dashboard or 3D visualization -->
-<img src="https://user-images.githubusercontent.com/26279115/183122148-38663a85-b3a2-4a7b-83cf-8a1928a38520.png" alt="Exoplanet Classifier Demo">
+<a href="https://www.youtube.com/watch?v=tA-L0zJ8s1s" target="_blank">
+  <img src="https://img.youtube.com/vi/tA-L0zJ8s1s/maxresdefault.jpg" alt="Exoplanet Classifier Demo Video">
+</a>
 </td>
 </tr>
 <tr>
@@ -90,12 +91,14 @@ I'm an **Aerospace Engineer & Software Developer** with professional experience 
 <code>Flutter</code> <code>On-Device AI</code> <code>LLM</code> <code>Google Gemma</code>
 </p>
 <div align="center">
+<a href="https://www.youtube.com/watch?v=x1hwtab4kDk"><strong>🎥 Watch the Demo</strong></a> | 
 <a href="https://github.com/Rappid-exe/Project-Noor"><strong>View on GitHub</strong></a>
 </div>
 </td>
 <td width="50%" valign="top">
-<!-- TODO: Add a screenshot of your Project Noor app -->
-<img src="https://user-images.githubusercontent.com/26279115/183122148-38663a85-b3a2-4a7b-83cf-8a1928a38520.png" alt="Project Noor Demo">
+<a href="https://www.youtube.com/watch?v=x1hwtab4kDk" target="_blank">
+  <img src="https://img.youtube.com/vi/x1hwtab4kDk/maxresdefault.jpg" alt="Project Noor Demo Video">
+</a>
 </td>
 </tr>
 </table>
@@ -103,8 +106,8 @@ I'm an **Aerospace Engineer & Software Developer** with professional experience 
 ---
 
 ### 🔭 More of My Work
-- **[Personalized Sales Outreach Agent](https://github.com/Rappid-exe/Personalized-Sales-Agent)** - A full-stack generative AI agent using Mistral AI and ElevenLabs to create hyper-personalized sales emails and voice notes from LinkedIn profiles.
-- **[SRE Multi-Agent Framework](https://github.com/Rappid-exe/SRE-Multi-Agent-Framework)** - A prize-winning system where AI agents collaborate to automate Site Reliability Engineering tasks, earning pilot interest from Vultr.
+- **[Personalized Sales Outreach Agent](https://github.com/Rappid-exe/weSellingbtw)** - A full-stack generative AI agent using Mistral AI and ElevenLabs to create hyper-personalized sales emails and voice notes from LinkedIn profiles.
+- **SRE Multi-Agent Framework** - A prize-winning system where AI agents collaborate to automate Site Reliability Engineering tasks, earning pilot interest from Vultr for internal, proprietary use.
 - **[AtmoSieve - Blockchain Carbon Credits](https://github.com/Rappid-exe/AtmoCC)** - A full-stack dApp for transparent carbon credit tokenization and trading using Solidity and Polkadot.
 
 ---
