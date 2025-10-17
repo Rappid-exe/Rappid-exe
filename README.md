@@ -45,7 +45,7 @@ I'm an **Aerospace Engineer & Software Developer** with professional experience 
 </td>
 <td width="50%" valign="top">
 <!-- TODO: Add a compelling screenshot or GIF of the Podcast Generator UI -->
-<img src="https://user-images.githubusercontent.com/26279115/183122148-38663a85-b3a2-4a7b-83cf-8a1928a38520.png" alt="Podcast Generator Demo">
+<img src="[https://user-images.githubusercontent.com/26279115/183122148-38663a85-b3a2-4a7b-83cf-8a1928a38520.png](https://www.youtube.com/watch?v=fn5zYwrzm08)" alt="Podcast Generator Demo">
 </td>
 </tr>
 <tr>
