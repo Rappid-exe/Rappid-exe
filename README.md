@@ -1,6 +1,6 @@
 # Hi, I'm Umair Ismati 👋
 
-I'm an **Aerospace Engineer & Software Developer** with professional experience at **Boeing Defence UK**. My passion is applying a rigorous engineering mindset to build high-performance, intelligent software. I specialize in developing full-stack, AI-driven applications that solve complex, real-world problems.
+I'm an **Aerospace Engineer & Software Developer** with professional experience at **Boeing and SubmitlyAI**. My passion is applying a rigorous engineering mindset to build high-performance, intelligent software. I specialize in developing full-stack, AI-driven applications that solve complex, real-world problems.
 
 <a href="https://www.linkedin.com/in/umair-ismati/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
